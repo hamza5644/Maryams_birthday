@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   // SET YOUR TARGET DATE HERE
-  const targetDate = new Date("2026-01-03T21:41:00").getTime();
+  const targetDate = new Date("2026-01-03T21:45:00").getTime();
   
   const timerEl = document.getElementById('timer');
   const unlockBtn = document.getElementById('unlockBtn');
@@ -70,3 +70,4 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 });
+
